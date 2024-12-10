@@ -1,4 +1,4 @@
-# Hi there, I'm Anuolu-2020! 👋
+# Hi there, I'm Anuoluwapo! 👋
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you. 
 
