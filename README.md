@@ -10,7 +10,6 @@
 
 I'm a passionate **Computer Science student** and **Software Engineer** specializing in robust backend systems, low-level programming, and innovative AI-driven services. I love building scalable solutions and exploring the depths of system-level programming.
 
-- 🔭 **Currently working on:** AI-driven backend services and system optimization
 - 🌱 **Learning:** **Zig** for high-performance systems programming
 - 👯 **Open to collaborate on:** **Go**, **Zig**, **TypeScript**, and **Node.js** projects
 - 💬 **Ask me about:** **PostgreSQL**, **NestJS**, **Node.js**, **Golang**, and database optimization
