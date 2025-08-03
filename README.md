@@ -13,7 +13,6 @@ I'm a passionate **Computer Science student** and **Software Engineer** speciali
 - 🌱 **Learning:** **Zig** for high-performance systems programming
 - 👯 **Open to collaborate on:** **Go**, **Zig**, **TypeScript**, and **Node.js** projects
 - 💬 **Ask me about:** **PostgreSQL**, **NestJS**, **Node.js**, **Golang**, and database optimization
-- ⚡ **Fun fact:** I enjoy bridging the gap between high-level application logic and low-level system performance
 
 ---
 
