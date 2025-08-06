@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** and **Software Engineer** specializing in robust backend systems, low-level programming, and innovative AI-driven services. I love building scalable solutions and exploring the depths of system-level programming.
+I'm a **Computer Science student** and **Software Engineer** specializing in robust backend systems, low-level programming enthusiast, and innovative AI-driven services. I love building scalable solutions and exploring the depths of system-level programming.
 
 - 🌱 **Learning:** **Zig** for high-performance systems programming
 - 👯 **Open to collaborate on:** **Go**, **Zig**, **TypeScript**, and **Node.js** projects
@@ -61,6 +61,23 @@ An experimental synchronization tool that bridges the gap between traditional da
 - 🛡️ Graceful error handling with configurable retry logic
 
 **Tech Stack:** `Go` • `PostgreSQL` • `MySQL` • `Meilisearch`
+
+---
+
+### 📝 [NoteRepo Backend](https://github.com/NoteRepoLabs/noterepo-backend)
+> **Note management API**
+
+A robust backend service for the NoteRepo web client, built with modern TypeScript and NestJS architecture for scalable note management.
+
+**Key Features:**
+- 🔍 Advanced search capabilities with Meilisearch integration
+- 📊 Comprehensive API documentation with Swagger
+- 🛡️ Redis-powered rate limiting and caching
+- ☁️ Cloud storage with Cloudinary integration
+- 📧 Email notifications via Mailgun
+- 🗄️ Prisma ORM with PostgreSQL
+
+**Tech Stack:** `NestJS` • `TypeScript` • `PostgreSQL` • `Prisma` • `Meilisearch` • `Redis` • `Fastify`
 
 ---
 
@@ -161,6 +178,7 @@ A comprehensive command-line banking system demonstrating low-level programming 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuolu-2020&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
 ---
 
